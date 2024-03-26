@@ -1,0 +1,14 @@
+/Activite/node_modules
+/Activite/package.json
+/Activite/package-lock.json
+/Activite/.env
+
+/Tache/node_modules
+/Tache/package.json
+/Tache/package-lock.json
+/Tache/.env
+
+/Auth-service/node_modules
+/Auth-service/package.json
+/Auth-service/package-lock.json
+/Auth-service/.env
